@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.f-f-i {
+    font-family: "Inter", sans-serif;
+}
+.f-f-p {
+    font-family: "Poppins", sans-serif;
+}
+
+.custom-height {
+    height: 1177px;
+}
+.border-custom {
+    border-bottom: 3px solid #237ac2;
+}
+.text-colo-para {
+    color: #4a5568;
+}
+.bg-background-blue {
+    background-color: #237ac2;
+}
+.text-color-heading {
+    color: #052e47;
+}
+.custom-button-border {
+    border: 2px solid #052e47;
+}
+.vl {
+    border-left: 2px solid rgba(209, 213, 219);
+    height: 138px;
+}
+.bg-blue {
+    background: #4299e1;
+}
+.bg-gray {
+    background: #cbd5e0;
+}
+.bg-gray-light {
+    background: #f6f6f6;
+}
+.bg-blue-dark {
+    background: #052e47;
+}
+.text-blue-light {
+    color: #4299e1;
+}
+.custom-border-blue {
+    border-bottom: 20px solid #052e47;
+}
+
